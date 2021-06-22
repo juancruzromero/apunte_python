@@ -1,6 +1,6 @@
 <h1 align='center'>
     Apunte
-    <img align='center', src="https://www.python.org/static/img/python-logo.png", height='25'>
+    <img align='center', height='30' src="https://www.python.org/static/img/python-logo.png">
 </h1>
 
 
