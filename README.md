@@ -4,9 +4,7 @@
 </h1>
 
 
-En este repositorio comparto todos mis anotaciones y recursos que fui realizando mientras aprendí a codear en este lenguaje. 
-
-Lo recomiendo ver en el orden que indico en el índice, ya que lo organizo desde las bases de python, hasta los temas más complejos.
+En este repositorio comparto todos mis anotaciones y recursos que fui realizando mientras aprendí a codear en este lenguaje. Lo recomiendo ver en el orden que indico en el índice, ya que lo organizo desde las bases de python, hasta los temas más complejos.
 
 Finalizo este proyecto contando todas las cosas que se pueden hacer en la actualidad con el lenguaje 😲.
 
