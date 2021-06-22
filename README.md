@@ -8,5 +8,6 @@ En este repositorio comparto todos mis anotaciones y recursos que fui realizando
 
 ## Índice ##
 
-- [Introducción](https://github.com/juancruzromero/apunte_python/blob/main/01-introduccion.md)
-- [Primeros Pasos](https://github.com/juancruzromero/apunte_python/blob/main/02-primeros-pasos.md)
+- [Introducción](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/01-introduccion.md)
+- [Primeros Pasos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-primeros-pasos.md)
+- [Estructura de datos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-primeros-pasos.md)
