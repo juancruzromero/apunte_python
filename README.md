@@ -20,3 +20,4 @@ Dedicale un momento de tu día a aprender algo nuevo y organizalo ✌️.
 1) [Introducción](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/01-introduccion.md)
 2) [Primeros Pasos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-primeros-pasos.md)
 3) [Estructura de datos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-primeros-pasos.md)
+4) [Funciones](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-funciones.md)
