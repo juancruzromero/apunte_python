@@ -21,3 +21,8 @@ Dedicale un momento de tu día a aprender algo nuevo y organizalo ✌️.
 2) [Primeros Pasos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-primeros-pasos.md)
 3) [Estructura de datos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-primeros-pasos.md)
 4) [Funciones](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/04-funciones.md)
+5) [Excepciones](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/05-excepciones.md)
+6) [POO](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/06-poo.md)
+7) [Modulos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/07-modulos.md)
+8) [Extras](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/08-extras.md)
+9) [Próximos Pasos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/09-proximos-pasos.md)
