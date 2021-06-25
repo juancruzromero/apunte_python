@@ -15,7 +15,7 @@ Mi sueño es ganar un mundial y que cualquiera que lea estos apuntes, pueda apre
 
 - Si te quedan dudas con algún tema de algún módulo, un video de Youtube te puede ayudar un montón 🤪.
 
-<h2 align='center'> 👨🏽Índice📣 </h2>
+<h2 align='center'> 👨🏽 Índice 📣 </h2>
 
 1) [Introducción](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/01-introduccion.md)
 2) [Primeros Pasos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-primeros-pasos.md)
