@@ -7,7 +7,7 @@ En este repositorio comparto mis apuntes y los recursos que utilicé para aprend
 
 Mi sueño es ganar un mundial y que cualquiera que lea estos apuntes, pueda aprender los conceptos básicos de Python y termine con muchas más ganas de aprender😄.
 
-**Recomendación antes de empezar**
+🧑🏽‍💻 **Recomendaciones antes de empezar**
 
 - Son **nueve módulos** y recomiendo leerlos y practicarlos en orden. Dediquen un momento de la semana a entender cada uno, y en poco tiempo notarán los resultados 🤯.
 
