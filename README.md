@@ -3,17 +3,17 @@
     <img align='center', height='50' src="https://www.python.org/static/img/python-logo.png">
 </h1>
 
+En este repositorio comparto mis apuntes y los recursos que utilicé para aprender Python.
 
-En este repositorio comparto todas mis anotaciones y los recursos que fui utilizando mientras aprendí a programar en este lenguaje. Lo recomiendo ver en el orden que el índice indica, ya que lo organizo desde las bases de python, hasta los temas más complejos del lenguaje.
+Mi sueño es ganar un mundial y que cualquiera que lea estos apuntes, pueda aprender los conceptos básicos de Python y termine con muchas más ganas de aprender😄.
 
-Finalizo este proyecto contando todas las cosas que se pueden hacer en la actualidad con el lenguaje 😲.
+**Recomendación antes de empezar**
 
-***Recomendación antes de empezar***
+- Son **nueve módulos** y recomiendo leerlos y practicarlos en orden. Dediquen un momento de la semana a entender cada uno, y en poco tiempo notarán los resultados 🤯.
 
-**🎧Aprender escuchando música:** Antes de arrancar a ver mis apuntes, recomiendo mucho escuchar música intrumental, o algo que nos mantenga enfocado. Por ejemplo, a mi me gusta escuchar música instrumental o clasicos del jazz. Les recomiendo mi lista de Spotify de [Dancing Mood](https://open.spotify.com/playlist/0NVJZ2C8GvPU0X5OYZxqy3?si=fd0ceec20cc345ee) una banda de música instrumental, jazz, ska, reggae de Argentina.
+- Recomiendo aprender **escuchando música**🎧. Intrumental, o clasicos del jazz vienen bien. Les recomiendo mi lista de Spotify de [Dancing Mood](https://open.spotify.com/playlist/0NVJZ2C8GvPU0X5OYZxqy3?si=fd0ceec20cc345ee), una banda de música jazz, ska, reggae de Argentina que me encanta.
 
-**Organizar tus tiempos:**
-Dedicale un momento de tu día a aprender algo nuevo y organizalo ✌️.
+- Si te quedan dudas con algún tema de algún módulo, un video de Youtube te puede ayudar un montón 🤪.
 
 ## Índice ##
 
