@@ -11,9 +11,9 @@ Mi sueño es ganar un mundial y que cualquiera que lea estos apuntes, pueda apre
 
 - Son **nueve módulos** y recomiendo leerlos y practicarlos en orden. Dediquen un momento de la semana a entender cada uno, y en poco tiempo notarán los resultados 🤯.
 
-- Recomiendo aprender **escuchando música**🎧. Intrumental, o clasicos del jazz vienen bien. Les recomiendo mi lista de Spotify de [Dancing Mood](https://open.spotify.com/playlist/0NVJZ2C8GvPU0X5OYZxqy3?si=fd0ceec20cc345ee), una banda de música jazz, ska, reggae de Argentina que me encanta.
+- Recomiendo aprender **escuchando música**🎧. Instrumental, o clásicos del jazz vienen bien. Les recomiendo mi lista de Spotify de [Dancing Mood](https://open.spotify.com/playlist/0NVJZ2C8GvPU0X5OYZxqy3?si=fd0ceec20cc345ee), una banda de música jazz, ska, reggae de Argentina que me encanta.
 
-- Si te quedan dudas con algún tema de algún módulo, un video de Youtube te puede ayudar un montón 🤪.
+- Si te quedan dudas con algún tema de algún módulo, un video de YouTube te puede ayudar un montón 🤪.
 
 <h2 align='center'> 👨🏽 Índice 📣 </h2>
 
