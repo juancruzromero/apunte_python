@@ -20,7 +20,7 @@ https://docs.microsoft.com/es-es/learn/modules/python-install-vscode/
 - Cómo crear y ejecutar mi primer línea de código:
 https://docs.microsoft.com/es-es/learn/modules/python-create-first/
 
-Ahora, si no te copa más leer y querés aprender **Python** viendo videos bien ordenados, paso a paso desde 0, te recomiendo este canal que a mi me sirvió un monton: [Píldoras informaticas - Curso Python desde 0](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas). La verdad que gracias a Juan, el creador de ese canal, pude entender muchas un montón de dudas que tuve siempre tuve y solo él, las explica muy bien.
+Ahora, si no te copa más leer y querés aprender **Python** viendo videos bien ordenados, paso a paso desde 0, te recomiendo este canal que a mi me sirvió un monton: [Píldoras informaticas - Curso Python desde 0](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas). La verdad que gracias a Juan, el creador de ese canal, pude entender muchas un montón de dudas que tuve siempre tuve y solo él, las explica muy bien. También, este curso [freeCodeCamp - Introducción a Programación en Python](https://www.freecodecamp.org/espanol/news/aprende-a-programar-en-python-desde-cero-curso-completo-gratis/) esta muy bueno.
 
 Pero, si no queres ver el curso de [Youtube](https://www.youtube.com/), y queres aprender leyendo y practicando, pasito a pasito, al terminar esos tres documentos de [Microsoft](https://www.microsoft.com/es-ar/), de podes seguir leyendo mis apuntes😄
 
