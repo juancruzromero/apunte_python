@@ -33,6 +33,21 @@ Python es un lenguaje de programación creado en los 90 por [Guido Van Rossum](h
 
 Pero bueno, la verdad que ese chabón es un crack y recomiendo leer su código en [Github](https://github.com/gvanrossum) para copiarlo porque es super prolijo, aplica buenas prácticas y [PEP8](https://www.python.org/dev/peps/pep-0008/) que es una guía de estilo de "cómo escribir código".
 
+## ¿Cómo funciona Python? (Explicado por Juancito)
+
+Python se instala en algún lugar de nuestro sistema operativo.
+
+- En **Linux** python está instalado en /usr/bin/python3 
+- En **Windows** python está instalado en alguna parte del disco "C".
+
+Todo el texto plano que escribimos en este apunte, la computadora no lo entiende por si solo. Es por esto, que necesitamos utilizar el **intérprete de Python** para poder ejecutar nuestro código.
+
+### Proceso: ###
+
+1)  Escribimos el código en un , por ejemplo: archivo.py.
+2) Luego con el intérprete vamos a este archivo y traducimos el código y lo ejecutamos en el mismo momento.
+3) El intérprete lee línea a línea y se frena al finalizar la ejecución o ante un error. 
+
 ## Documentación
 
 La documentación oficial está en inglés: https://docs.python.org/3/
@@ -66,21 +81,6 @@ Las librerías son código y funciones que otros ya realizaron en el pasado, com
 
 ### [Referencia del lenguaje](https://docs.python.org/es/3/reference/index.html) ###
 Habla del lenguaje y sus buenas prácticas para programar
-
-## ¿Cómo funciona Python? (Explicado por Juancito)
-
-Python se instala en algún lugar de nuestro sistema operativo.
-
-- En **Linux** python está instalado en /usr/bin/python3 
-- En **Windows** python está instalado en alguna parte del disco "C".
-
-Todo el texto plano que escribimos en este apunte, la computadora no lo entiende por si solo. Es por esto, que necesitamos utilizar el **intérprete de Python** para poder ejecutar nuestro código.
-
-### Proceso: ###
-
-1)  Escribimos el código en un , por ejemplo: archivo.py.
-2) Luego con el intérprete vamos a este archivo y traducimos el código y lo ejecutamos en el mismo momento.
-3) El intérprete lee línea a línea y se frena al finalizar la ejecución o ante un error. 
 
 ## Tipos de Datos ##
 Se definen por su contenido.
