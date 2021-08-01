@@ -1,5 +1,6 @@
-## Tipos de Datos ##
-Se definen por su contenido.
+# Cosas básicas
+## Tipos de Datos 
+Es importante saber diferenciar los tipos de datos. No es lo mismo un **string** que un **integer**. El primero es cadena de texto, el segundo números que se pueden operar. Se definen por su contenido.
 
 ```python
 # String
@@ -43,7 +44,7 @@ En python, las variables se escriben en minúscula. Y las constantes en mayúscu
 Palabras Reservadas
 Las palabras reservadas, como su nombre lo indican, son palabras las cuales el lenguaje de programación ya ha reservado para realizar ciertas tareas. No podemos declarar una variable con el mismo nombre que una palabra reservada
 
-Si quieres conocer todas ellas, puedes consultar el siguiente: https://www.programiz.com/python-programming/keyword-list
+Si quieres conocer todas ellas, recomiendo el siguiente post: https://www.programiz.com/python-programming/keyword-list
 
 ## Métodos de cadenas ##
 
@@ -53,7 +54,10 @@ name = "Juan Cruz"
 print(name.capitalize())
 print(name.upper())
 ```
-Más información en: https://docs.python.org/3.7/library/stdtypes.html#string-methods
+Este post lo explica muy bien:
+https://www.programaenpython.com/fundamentos/strings-en-python/
+
+En la documentación oficial se encuentra aquí: https://docs.python.org/3.7/library/stdtypes.html#string-methods
 
 ## Scopes and namespaces ##
 
@@ -95,6 +99,5 @@ def funcion_externa(name1):
         print(name1)
         print(name1)
 ```
-Para poder manipular una variable que se encuentra fuera del scope local podemos utilizar los keywords global y nonlocal.
 
-    INSERT FOTO
+Este tema se explica muy bien en un post de **Real Python**: https://realpython.com/python-scope-legb-rule/
