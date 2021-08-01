@@ -21,14 +21,17 @@ True
 False
 ```
 
-## Operadores ##
+## Operadores
 - Aritméticos: +,-,*,/,%,**,//.
 - Comparación: <,>,=,
 - Lógicos:  and, or, not.
 - Asignación: =, += , -=
 - Especiales: is, is not, in, not in.
 
-## Orden de operaciones ##
+Para practicar este tema, recomiendo un post de freeCodeCamp: https://www.freecodecamp.org/espanol/news/operadores-basicos-en-python-con-ejemplos/
+
+Doc oficial: https://docs.python.org/es/3/library/stdtypes.html
+## Orden de operaciones
 Todo un clásico en las redes sociales es que alguien comparta la operación 5+4/3-1*2 y que se monte un gallinero tremendo en los comentarios con distintas soluciones. Esto se debe a que mucha gente no tiene claro cómo va la jerarquía de las operaciones y el orden de evaluación de las mismas.
 
 Si hablamos de operaciones básicas, y de la mayoría de lenguajes de programación (Javascript, PHP, Python, Ruby, C,Visual Basic, Java…), nos regiremos por el orden de operaciones conocido por el acrónimo inglés PEMDAS, que en castellano podríamos traducir como PAPOMUDAS (PAréntesis, POtencias, MUltiplicación, División, Adición, Sustracción). En base a esto el orden de operaciones en lenguajes de programación como Python, PHP, Ruby o Javascript sería:
@@ -38,7 +41,7 @@ Si hablamos de operaciones básicas, y de la mayoría de lenguajes de programaci
 - Multiplicación, división, división entera y módulo.
 - Suma y resta.
 
-## Variables y Constantes ##
+## Variables y Constantes
 
 En python, las variables se escriben en minúscula. Y las constantes en mayúscula.
 Palabras Reservadas
@@ -46,7 +49,7 @@ Las palabras reservadas, como su nombre lo indican, son palabras las cuales el l
 
 Si quieres conocer todas ellas, recomiendo el siguiente post: https://www.programiz.com/python-programming/keyword-list
 
-## Métodos de cadenas ##
+## Métodos de cadenas
 
 Existen varios métodos ofrecidos por python para manipular strings:
 ```python
@@ -59,7 +62,7 @@ https://www.programaenpython.com/fundamentos/strings-en-python/
 
 En la documentación oficial se encuentra aquí: https://docs.python.org/3.7/library/stdtypes.html#string-methods
 
-## Scopes and namespaces ##
+## Scopes and namespaces
 
 En Python, un name, también conocido como identifier, es simplemente una forma de otorgarle un nombre a un objeto. Mediante el nombre, podemos acceder al objeto. Vamos a ver un ejemplo:
 
@@ -101,3 +104,13 @@ def funcion_externa(name1):
 ```
 
 Este tema se explica muy bien en un post de **Real Python**: https://realpython.com/python-scope-legb-rule/
+
+## Condicionales y Bucles
+
+Los condicionales y los búcles son muy importantes a la hora de aprender a programar, estos nos permiten, tal como dicen su nombre, aplicar condiciones para que nuestro algoritmo realize o no algo. Los bucles o loops, buscan iterar estos algoritmos, para ejectutar un algoritmo la cantidad de veces que se lo indique, según el criterio que utilicemos.
+
+Los mejores apuntes para aprender este tema los encontré aquí, pero están en inglés:
+
+- [If ... Else](https://www.w3schools.com/python/python_conditions.asp)
+- [While](https://www.w3schools.com/python/python_while_loops.asp)
+- [For](https://www.w3schools.com/python/python_for_loops.asp)
