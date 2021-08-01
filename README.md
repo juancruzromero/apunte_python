@@ -17,8 +17,8 @@ Mi sueño es ganar un mundial y que cualquiera que lea estos apuntes, pueda apre
 
 <h2 align='center'> 👨🏽 Índice 📣 </h2>
 
-1) [Introducción](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/00-introduccion.md)
-2) [Primeros Pasos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/01-primeros-pasos.md)
+0) [Introducción](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/00-introduccion.md)
+1) [Primeros Pasos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/01-primeros-pasos.md)
 2) [Cosas básicas](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/02-cosas-basicas.md)
 3) [Estructura de datos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/03-estructura-datos.md)
 4) [Funciones](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/04-funciones.md)
