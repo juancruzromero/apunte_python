@@ -27,3 +27,9 @@ Mi sueño es ganar un mundial y que cualquiera que lea estos apuntes, pueda apre
 7) [Módulos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/07-modulos.md)
 8) [Extras](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/08-extras.md)
 9) [Próximos Pasos](https://github.com/juancruzromero/apunte_python/blob/main/apuntes/09-proximos-pasos.md)
+
+<h2 align='center'> Contribuír en este repositorio 📣 </h2>
+
+Agradezco a cualquiera que quiera colaborar en este proyecto. Por aquí dejo una lista de cosas pendientes que debo agregar:
+
+* [ ] Agregar ejercicio y código de búsqueda binaria.
