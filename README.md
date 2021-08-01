@@ -32,4 +32,5 @@ Mi sueño es ganar un mundial y que cualquiera que lea estos apuntes, pueda apre
 
 Agradezco a cualquiera que quiera colaborar en este proyecto. Por aquí dejo una lista de cosas pendientes que debo agregar:
 
+* [ ] Desarrollar el módulo 06-poo.
 * [ ] Agregar ejercicio y código de búsqueda binaria.
