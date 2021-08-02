@@ -3,7 +3,7 @@
     <img align='center', height='50' src="https://www.python.org/static/img/python-logo.png">
 </h1>
 
-En este repositorio comparto mis apuntes y los recursos que utilicé para aprender Python.
+En este repositorio comparto mis apuntes y los recursos que utilicé para aprender Python. Si en algún momento aprendo algo nuevo del lenguaje, y valga la pena difundirlo, ¡Aquí será agregado!.
 
 Mi sueño es ganar un mundial y que cualquiera que lea estos apuntes, pueda aprender los conceptos básicos de Python y termine con muchas más ganas de aprender😄.
 
