@@ -45,5 +45,5 @@ Este apunte aún esta en desarrollo y  contiene notas mías, info y referencias 
 
 En fin tiene de todo, y la idea es darle valor y difundir la programación entre todos aquellos que le guste enseñar y aprender.
 
-### Contribuidores del proyecto
+### Contribuidores del proyecto 🧑‍🤝‍🧑
 [Yo](https://github.com/juancruzromero/)
